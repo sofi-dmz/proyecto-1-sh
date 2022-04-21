@@ -1,0 +1,54 @@
+body{
+    background: whitesmoke;
+    margin: 0px;
+    
+}
+
+img{
+    margin: 20px;
+}
+
+header{
+    margin: 25px;
+}
+h1{
+    text-align:left;
+    font-size: 40px;
+    font-family: 'Rock Salt', cursive;
+
+    color:#212121;
+}
+
+h2{
+    margin: 10px;
+    text-align: left;
+    font-size: 16px;
+    font-family: 'Outfit', sans-serif;
+    color:#212121;
+}
+
+p{  
+    padding: 10px;
+    width: 100%;
+    text-align: left;
+    font-family: 'Outfit', sans-serif;
+    font-size: 16px ;
+    color:#212121;
+}
+
+
+.rep{
+    margin: 25px;
+
+}
+
+.letra{
+    margin: 25px;
+}
+
+
+
+footer{
+    background: grey;
+    padding: 10px;
+}
